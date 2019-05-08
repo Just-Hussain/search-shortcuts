@@ -1,0 +1,12 @@
+{
+    "name": "Search Shortcuts",
+    "version": "1.0",
+    "description": "Trying out the api.",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "permissions": ["tabs"],
+    "omnibox": { "keyword" : "ss" },
+    "manifest_version": 2
+}
