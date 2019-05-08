@@ -7,5 +7,5 @@ In th link-bar, type "ss" to activate the extesions. Then here is the list of av
 * "y" for directly seraching in YouTube
 * "t" for Twitter.
 * "w" for Wiki.
-* "s" fot Stack overflow.
+* "s" fot Stack Overflow.
 More can easily be added through code, no UI for now.
