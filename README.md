@@ -1,5 +1,8 @@
 # search-shortcuts
 Firefox-like searching shortcuts for Chrome.
+
+![Example](https://i.imgur.com/JrYepaU.gif)
+
 # HOW-TO INSTALL
 Get the files on your machine, go to chrome://extensions/ and enable **Developer mode** and then **Load Unpacked**.
 # HOW-TO USE
